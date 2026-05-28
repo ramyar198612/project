@@ -141,7 +141,7 @@ export default function Services() {
             <div className="absolute -inset-4 bg-gradient-to-tr from-purple-400 to-pink-300 rounded-3xl blur-2xl opacity-20 -z-10" />
             <div className="w-full max-w-md aspect-square rounded-[2.5rem] overflow-hidden shadow-2xl border-4 border-white transform hover:scale-[1.02] transition duration-500 ease-out">
               <img 
-                src="/images/s1.png" 
+                src="/project/images/s1.png" 
                 alt="Precision Digital Engineering Visual Illustration" 
                 className="w-full h-full object-cover"
               />

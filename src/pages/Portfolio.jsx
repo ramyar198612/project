@@ -19,7 +19,7 @@ export default function Portfolio() {
       title: "Fluid Abstract Exploration",
       category: "UI/UX",
       year: "2026",
-      image: "/images/p1.png",
+      image: "/project/images/p1.png",
       spanClass: "md:col-span-7", 
     },
     {
@@ -27,7 +27,7 @@ export default function Portfolio() {
       title: "Interface Mobile Application",
       category: "Mobile",
       year: "2026",
-      image: "/images/p2.png",
+      image: "/project/images/p2.png",
       spanClass: "md:col-span-5", 
     },
     {
@@ -35,7 +35,7 @@ export default function Portfolio() {
       title: "E-Commerce Core Architecture",
       category: "Web",
       year: "2025",
-      image: "/images/p3.png",
+      image: "/project/images/p3.png",
       spanClass: "md:col-span-5", 
     },
     {
@@ -43,7 +43,7 @@ export default function Portfolio() {
       title: "Boutique Identity System",
       category: "Branding",
       year: "2025",
-      image: "/images/p4.png",
+      image: "/project/images/p4.png",
       spanClass: "md:col-span-7",
     },
     {
@@ -51,7 +51,7 @@ export default function Portfolio() {
       title: "SaaS Analytics Dashboard",
       category: "Web",
       year: "2026",
-      image: "/images/p5.png",
+      image: "/project/images/p5.png",
       spanClass: "md:col-span-6",
     },
     {
@@ -59,7 +59,7 @@ export default function Portfolio() {
       title: "Immersive Interactions Layout",
       category: "UI/UX",
       year: "2026",
-      image: "/images/p6.png",
+      image: "/project/images/p6.png",
       spanClass: "md:col-span-6",
     },
   ];

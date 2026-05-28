@@ -261,7 +261,7 @@ export default function Home() {
           <div className="md:col-span-5 flex justify-center md:justify-end">
             <div className="w-full max-w-[480px] aspect-[4/5] md:aspect-square lg:aspect-[4/5] rounded-[40px] overflow-hidden bg-zinc-900 shadow-2xl">
               <img 
-                src="/images/group.png" 
+                src="/project/images/group.png" 
                 alt="Our collaborative development team planning production roadmap layout" 
                 className="w-full h-full object-cover grayscale-[15%] hover:grayscale-0 transition duration-500"
               />
@@ -291,7 +291,7 @@ export default function Home() {
           <div className="group cursor-pointer">
             <div className="w-full aspect-[16/10] bg-zinc-900 rounded-[30px] overflow-hidden shadow-sm mb-6 transition duration-300 group-hover:shadow-xl">
               <img 
-                src="/images/cr1.png" 
+                src="/project/images/cr1.png" 
                 alt="Lumina Fintech Platform UI Display" 
                 className="w-full h-full object-cover transition duration-500 group-hover:scale-[1.03]"
               />
@@ -313,7 +313,7 @@ export default function Home() {
           <div className="group cursor-pointer">
             <div className="w-full aspect-[16/10] bg-[#0c232c] rounded-[30px] overflow-hidden shadow-sm mb-6 transition duration-300 group-hover:shadow-xl">
               <img 
-                src="/images/cr2.png" 
+                src="/project/images/cr2.png" 
                 alt="Zenith Health App Mobile Showcase" 
                 className="w-full h-full object-cover transition duration-500 group-hover:scale-[1.03]"
               />
@@ -335,7 +335,7 @@ export default function Home() {
           <div className="group cursor-pointer">
             <div className="w-full aspect-[16/10] bg-[#2e4c4f] rounded-[30px] overflow-hidden shadow-sm mb-6 transition duration-300 group-hover:shadow-xl">
               <img 
-                src="/images/cr3.png" 
+                src="/project/images/cr3.png" 
                 alt="Nova Minimalist Store Interface Layout" 
                 className="w-full h-full object-cover transition duration-500 group-hover:scale-[1.03]"
                 onError={(e) => {
@@ -360,7 +360,7 @@ export default function Home() {
           <div className="group cursor-pointer">
             <div className="w-full aspect-[16/10] bg-[#3a5851] rounded-[30px] overflow-hidden shadow-sm mb-6 transition duration-300 group-hover:shadow-xl">
               <img 
-                src="/images/cr4.png" 
+                src="/project/images/cr4.png" 
                 alt="Echo Branding System Canvas Showcase" 
                 className="w-full h-full object-cover transition duration-500 group-hover:scale-[1.03]"
                 onError={(e) => {
@@ -404,7 +404,7 @@ export default function Home() {
 
             <div className="mt-12 w-20 h-20 rounded-full overflow-hidden border-2 border-[#2d2730] bg-[#111] shadow-md shrink-0">
               <img 
-                src="/images/man.png" 
+                src="/project/images/man.png" 
                 alt="Corporate executive client headshot avatar representation" 
                 className="w-full h-full object-cover"
               />
